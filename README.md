@@ -3,7 +3,7 @@
 Tabela hash com encadeamento (M = 11, `h(chave) = chave mod 11`), listas encadeadas implementadas manualmente.
 
 ## Equipe
-- (preencher com os nomes de todos os membros, 5 a 7)
+- Ryan de Souza Sebadelhe
 
 ## Compilar e executar
 ```bash
